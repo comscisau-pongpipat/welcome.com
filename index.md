@@ -18,6 +18,8 @@
     <title>TheMix</title>
 </head>
 <body>
-    
+    <button class="mdc-button">
+  <span class="mdc-button__label">Button</span>
+</button>
 </body>
 </html>
