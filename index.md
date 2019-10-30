@@ -1,2 +1,3 @@
 
-<a href="contac">click<a>
+<a href="contac.php">click<a>
+
